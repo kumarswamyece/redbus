@@ -38,6 +38,10 @@ public class BaseClass {
 			System.setProperty("webdriver.chrome.driver", "G:\\chromedriver.exe");
 		driver = new ChromeDriver();
 		System.out.println("successfully open the chrome browser");
+		System.out.println("kumar");
+		System.out.println("venkatesh");
+		System.out.println("kumar");
+		System.out.println("venkatesh");
 
 	   }
 		else if(browser.equalsIgnoreCase("Edge")){
